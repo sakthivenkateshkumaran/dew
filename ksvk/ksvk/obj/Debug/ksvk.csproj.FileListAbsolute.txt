@@ -1,0 +1,15 @@
+D:\sakthi\File1\ksvk\ksvk\bin\Debug\ksvk.exe.config
+D:\sakthi\File1\ksvk\ksvk\obj\Debug\ksvk.csprojResolveAssemblyReference.cache
+D:\sakthi\File1\ksvk\ksvk\obj\Debug\ksvk.Form1.resources
+D:\sakthi\File1\ksvk\ksvk\obj\Debug\ksvk.Form2.resources
+D:\sakthi\File1\ksvk\ksvk\obj\Debug\ksvk.Form3.resources
+D:\sakthi\File1\ksvk\ksvk\obj\Debug\ksvk.Properties.Resources.resources
+D:\sakthi\File1\ksvk\ksvk\obj\Debug\ksvk.csproj.GenerateResource.Cache
+D:\sakthi\File1\ksvk\ksvk\bin\Debug\TODAY11.mdf
+D:\sakthi\File1\ksvk\ksvk\bin\Debug\TODAY11_log.ldf
+D:\sakthi\File1\ksvk\ksvk\bin\Debug\ksvk.exe
+D:\sakthi\File1\ksvk\ksvk\bin\Debug\ksvk.pdb
+D:\sakthi\File1\ksvk\ksvk\obj\Debug\ksvk.exe
+D:\sakthi\File1\ksvk\ksvk\obj\Debug\ksvk.pdb
+D:\sakthi\File1\ksvk\ksvk\bin\Debug\Database1.mdf
+D:\sakthi\File1\ksvk\ksvk\bin\Debug\Database1_log.ldf
